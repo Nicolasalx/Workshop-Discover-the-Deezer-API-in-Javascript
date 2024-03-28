@@ -10,8 +10,8 @@ Avant de commencer ce workshop, assurez-vous d'avoir Node.js installé sur votre
 2. Installer les dépendances
 
 ```bash
-- deezer-js
-- axios
+- npm install deezer-js
+- npm install axios
  ```
 ## Exercice 2 : Création du compte
 
