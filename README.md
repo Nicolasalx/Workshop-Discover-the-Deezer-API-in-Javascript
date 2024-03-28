@@ -19,7 +19,7 @@ Avant de commencer ce workshop, assurez-vous d'avoir Node.js installé sur votre
 
 2. Accéder à la doc grâce à ce lien [documentation](https://developers.deezer.com/api)
 
- ### Exercice 3 : Récupérer son token
+## Exercice 3 : Récupérer son token
 
 1. Une fois sur son compte Deezer, aller sur son profil
    
