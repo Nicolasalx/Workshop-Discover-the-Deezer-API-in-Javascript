@@ -1,6 +1,18 @@
 # API-Initiation
 
 
+
+### Exercice 1 : Configuration initiale
+1. Cloner le repo
+2.Installer les dépendances
+	```bash
+ deezer-js
+	axios
+ ```
+
+### Exercice 2 : Création du compte
+
+
 ![image](https://github.com/Nicolasalx/API-Initiation/assets/114945623/5de1cb18-938c-4cad-b314-7d7b55703dff)
 
 
