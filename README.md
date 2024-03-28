@@ -49,6 +49,16 @@ Pour **"Eminem"**:
 
 ![image](https://github.com/Nicolasalx/D-couverte-de-l-API-Deezer-en-Javascript/assets/114945623/a2f0ffe9-06bd-4a91-a587-31545d953517)
 
+## Exercice 6 : Afficher ses playlists personnelles
+
+Ce que j'ai sur ma playlist :
+
+![image](https://github.com/Nicolasalx/D-couverte-de-l-API-Deezer-en-Javascript/assets/114945623/4ec8a20e-d590-447e-adf1-1cb61b2646eb)
+
+Ce que j'attend de recevoir :
+
+![image](https://github.com/Nicolasalx/D-couverte-de-l-API-Deezer-en-Javascript/assets/114945623/7ece70ef-d580-4b93-9c38-a10530fde0bd)
+
 
 ## Conclusion
     
