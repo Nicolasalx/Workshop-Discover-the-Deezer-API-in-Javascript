@@ -1,4 +1,4 @@
-# Développement de l'API Deezer en Javascript
+# Utilisation de l'API Deezer en Javascript
 
 ## Prérequis
 
