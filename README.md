@@ -44,6 +44,7 @@ Le résultat devrait etre celui-ci:
 ![image](https://github.com/Nicolasalx/D-couverte-de-l-API-Deezer-en-Javascript/assets/114945623/093c8547-b860-4f37-9ca0-ed63c7dad91a)
 
 
+## Conclusion
     
 Félicitations !
 
