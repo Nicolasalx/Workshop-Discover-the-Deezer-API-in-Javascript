@@ -30,3 +30,17 @@ Avant de commencer ce workshop, assurez-vous d'avoir Node.js installé sur votre
 2. Récupérer le token dans la barre de recherche
 
 ![image](https://github.com/Nicolasalx/API-Initiation/assets/114945623/6681c9d1-f4d8-4f5d-ad7a-a55b46c742e3)
+
+## Exercice 4 : Afficher ses informations
+
+1. Afficher votre nom
+
+2. Afficher le pays du compte
+
+3. Afficher votre lien vers votre profil
+
+Le résultat devrait etre celui-ci:
+![image](https://github.com/Nicolasalx/D-couverte-de-l-API-Deezer-en-Javascript/assets/114945623/093c8547-b860-4f37-9ca0-ed63c7dad91a)
+
+
+    
