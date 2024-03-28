@@ -45,3 +45,8 @@ Le résultat devrait etre celui-ci:
 
 
     
+Félicitations !
+
+Vous avez complété avec succès ce workshop au sujet de la découverte de l'API Deezer avec Javascript. N'hésitez pas à explorer davantage les fonctionnalités de l'API.
+
+Amusez-vous bien !
