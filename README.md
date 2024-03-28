@@ -57,7 +57,7 @@ Ce que j'ai sur ma playlist :
 
 Ce que j'attend de recevoir :
 
-![image](https://github.com/Nicolasalx/D-couverte-de-l-API-Deezer-en-Javascript/assets/114945623/7ece70ef-d580-4b93-9c38-a10530fde0bd)
+![image](https://github.com/Nicolasalx/D-couverte-de-l-API-Deezer-en-Javascript/assets/114945623/3f494372-9aaf-47a6-b305-554cc31c33fe)
 
 
 ## Conclusion
