@@ -13,8 +13,9 @@
  ```
 ## Exercice 2 : Création du compte
 
-Se créer un compte sur ce lien [deezer.com](https://www.deezer.com/fr/) 
-Accéder à la doc grâce à ce lien: [documentation_API)(https://developers.deezer.com/api)
+1. Se créer un compte sur ce lien [deezer.com](https://www.deezer.com/fr/) 
+
+2. Accéder à la doc grâce à ce lien: [documentation_API](https://developers.deezer.com/api)
 
 
 ### Exercice 2 : Création du compte
