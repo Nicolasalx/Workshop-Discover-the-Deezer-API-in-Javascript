@@ -4,11 +4,12 @@
 
 ### Exercice 1 : Configuration initiale
 1. Cloner le repo
+   
 2.Installer les dépendances
 
 ```bash
- deezer-js
-	axios
+- deezer-js
+- axios
  ```
 
 ### Exercice 2 : Création du compte
