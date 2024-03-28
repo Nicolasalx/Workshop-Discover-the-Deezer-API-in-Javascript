@@ -5,7 +5,8 @@
 ### Exercice 1 : Configuration initiale
 1. Cloner le repo
 2.Installer les dépendances
-	```bash
+
+```bash
  deezer-js
 	axios
  ```
