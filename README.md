@@ -1,6 +1,8 @@
-# API-Initiation
+# Développement de l'API Deezer en Javascript
 
+## Prérequis
 
+Avant de commencer ce workshop, assurez-vous d'avoir Node.js installé sur votre système.
 
 ## Exercice 1 : Configuration initiale
 1. Cloner le repo
