@@ -43,6 +43,12 @@ Le résultat devrait etre celui-ci:
 
 ![image](https://github.com/Nicolasalx/D-couverte-de-l-API-Deezer-en-Javascript/assets/114945623/093c8547-b860-4f37-9ca0-ed63c7dad91a)
 
+## Exercice 5 : Afficher les 10 premiers titres d'un artiste
+
+Pour **"Eminem"**:
+
+![image](https://github.com/Nicolasalx/D-couverte-de-l-API-Deezer-en-Javascript/assets/114945623/a2f0ffe9-06bd-4a91-a587-31545d953517)
+
 
 ## Conclusion
     
