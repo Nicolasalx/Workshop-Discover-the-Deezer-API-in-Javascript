@@ -11,6 +11,7 @@ Avant de commencer ce workshop, assurez-vous d'avoir Node.js installé sur votre
 
 ```bash
 - npm init
+- touch index.js
 - npm install deezer-js
 - npm install axios
  ```
