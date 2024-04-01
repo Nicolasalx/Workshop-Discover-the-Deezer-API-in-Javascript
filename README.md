@@ -59,6 +59,10 @@ Ce que tu dois recevoir :
 
 ![image](https://github.com/Nicolasalx/D-couverte-de-l-API-Deezer-en-Javascript/assets/114945623/3f494372-9aaf-47a6-b305-554cc31c33fe)
 
+## Exercice 7 : Afficher toutes les informations principales de chaque playlist
+
+![image](https://github.com/Nicolasalx/Decouverte-de-l-API-Deezer-en-Javascript/assets/114945623/010b2215-b85c-4050-a7db-9171b3bb09fa)
+
 
 ## Conclusion
     
