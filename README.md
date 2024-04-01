@@ -65,8 +65,7 @@ Ce que tu dois recevoir :
 
 ## Exercice 8 : Créer ton propre Deezer
 
-![Deezer-Web-App-Demo](https://github.com/Nicolasalx/Decouverte-de-l-API-Deezer-en-Javascript/assets/114945623/974b8567-7e1a-4de7-a076-cd278c87df79)
-
+![gif](https://github.com/Nicolasalx/Decouverte-de-l-API-Deezer-en-Javascript/blob/main/Deezer-Web-App-Demo.gif)
 
 ## Conclusion
     
