@@ -63,7 +63,9 @@ Ce que tu dois recevoir :
 
 ![image](https://github.com/Nicolasalx/Decouverte-de-l-API-Deezer-en-Javascript/assets/114945623/010b2215-b85c-4050-a7db-9171b3bb09fa)
 
-## Exercice 8 : Créer ton propre Deezer
+## Exercice 8 : Créer ton moteur de recherche Deezer
+
+Créer par toi même un site qui permet à l'utilisateur de chercher un artiste et d'afficher toutes ses informations, ses musiques, etc. ...
 
 ![gif](https://github.com/Nicolasalx/Decouverte-de-l-API-Deezer-en-Javascript/blob/main/Deezer-Web-App-Demo.gif)
 
